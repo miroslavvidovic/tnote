@@ -122,11 +122,6 @@ Fire it up! :volcano:
 
 ***
 
-## Contributing
-[:arrow_up: Back to top](#index)
-
-This app was created in a timespan of 2 hours while learning to use [peewee (ORM)](https://github.com/coleifer/peewee). So don't be shy to make some PR's here :smile:
-
 #### To-do
     
 - [ ] Add **unit tests**. Like real quick!
@@ -145,30 +140,10 @@ This app was created in a timespan of 2 hours while learning to use [peewee (ORM
 - [x] Add colorized text to the notes for improved UI
 - [ ] Add better UI using **urwid**
 
-#### Contributers
-
-A big shout out to all the contributers, more specifically to these guys
-
-- [@maxwellgerber](https://github.com/maxwellgerber)
-- [@BrandtM](https://github.com/BrandtM)
-
 ## Motivation
 [:arrow_up: Back to top](#index)
 
 Why not! Cheers to a crazy weekend :smile:
-
-***
-
-## Issues
-[:arrow_up: Back to top](#index)
-
-You can report the bugs at the [issue tracker](https://github.com/prodicus/tnote/issues)
-
-**OR**
-
-You can [tweet me](https://twitter.com/tasdikrahman) if you can't get it to work. In fact, you should tweet me anyway.
-
-***
 
 ## License
 [:arrow_up: Back to top](#index)
